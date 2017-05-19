@@ -6,11 +6,19 @@
     <td align=center>网门 網門<br/>
       欢迎来到固定网址页面，请收藏<br/>
       https://git.io/ogate<br/>
+      https://github.com/ogate/ogate<br/>
     </td>
   </tr>
   <tr>
-    <td align=center>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=fei9">大陆请点击进入动态网址</a><br/>
+    <td align=center>请点击进入动态网址<br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike&from=fei9">《最热》手动</a>
+      <a href="http://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike&from=fei9">《最热》自动</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLate&from=fei9">《最新》手动</a>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=fei9">《最新》自动</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=fei9">《头条》手动</a>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews&from=fei9">《头条》自动</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogSite&from=fei9">《网站》手动</a>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogSite&from=fei9">《网站》自动</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
@@ -18,11 +26,6 @@
   <tr>
     <td align=center>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align=center>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=fei9">网门头条</a><br/>
     </td>
   </tr>
   <tr>
