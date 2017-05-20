@@ -11,6 +11,7 @@
   </tr>
   <tr>
     <td align=center>请点击进入动态网址<br/>
+      <a href="https://frla.azureedge.net/ogPipe.aspx?name=http%3A%2F%2F220%2F&tag=fei9">动态网1</a>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike&from=fei9">《最热》手动</a>
       <a href="http://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike&from=fei9">《最热》自动</a><br/>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLate&from=fei9">《最新》手动</a>
