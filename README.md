@@ -11,9 +11,7 @@
   </tr>
   <tr>
     <td align=center>请点击进入动态网址<br/>
-      <a href="https://frla.azureedge.net/ogPipe.aspx?name=http%3A%2F%2F220%2F&tag=fei9">动态网1</a><br/>
-      
-      
+     <a href="https://frla.azureedge.net/ogPipe.aspx?name=http%3A%2F%2F220%2F&tag=fei9">动态网1</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
