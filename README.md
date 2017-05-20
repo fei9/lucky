@@ -5,7 +5,6 @@
   <tr>
     <td align=center>网门 網門<br/>
       欢迎来到固定网址页面，请收藏<br/>
-      https://git.io/ogate<br/>
       https://github.com/ogate/ogate<br/>
     </td>
   </tr>
