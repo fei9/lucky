@@ -2,12 +2,7 @@
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
   </tr>
-  <tr>
-    <td align=center>网门 網門<br/>
-      欢迎来到固定网址页面，请收藏<br/>
-      https://github.com/ogate/ogate<br/>
-    </td>
-  </tr>
+  
   <tr>
     <td align=center>请点击进入动态网址<br/>
      <a href="https://frla.azureedge.net/ogPipe.aspx?name=http%3A%2F%2F220%2F&tag=fei9">动态网</a><br/>
