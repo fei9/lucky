@@ -13,7 +13,9 @@
   </tr>
   <tr>
     <td align=center>
-      安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
+      高速翻墙安卓Apk下载：
+       <a href="http://suo.im/4cl0at">无界安卓版</a><br/>
+       <a href="http://suo.im/1aucBN">网门安卓版</a><br/>
     </td>
   </tr>
   <tr>
